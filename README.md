@@ -13,7 +13,7 @@ Executive stakeholders required an automated solution to ingest raw, messy e-com
 ## 🚀 How To Run The Pipeline
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/omnichannel-retail-analytics-pipeline.git](https://github.com/Omikadam793/omnichannel-retail-analytics-pipeline.git)
+git clone [https://github.com/Omikadam793/omnichannel-retail-analytics-pipeline.git](https://github.com/Omikadam793/omnichannel-retail-analytics-pipeline.git)
 
 # Run the complete data pipeline ingestion script
 python scripts/data_pipeline.py
